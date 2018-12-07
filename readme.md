@@ -1,1 +1,3 @@
-Este es mi Readme
+Taller sobre git
+
+Aprenderemos:
