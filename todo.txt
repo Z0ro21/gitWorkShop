@@ -1,0 +1,3 @@
+Estos son mis pendientes:
+
+- Ver video de Git
