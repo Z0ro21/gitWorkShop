@@ -1,3 +1,4 @@
 Estos son mis pendientes:
 
 - Ver video de Git
+- Crear comandos personalizados
